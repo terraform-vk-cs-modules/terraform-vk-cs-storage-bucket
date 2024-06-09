@@ -1,0 +1,1 @@
+# terraform-vk-cs-storage-bucket
